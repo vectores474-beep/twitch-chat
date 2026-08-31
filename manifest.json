@@ -1,0 +1,14 @@
+{
+  "background_color": "#9146ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nexus Stream",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Nexus_Stream",
+  "start_url": "https://vectores474-beep.github.io/twitch-chat/",
+  "theme_color": "#9146ff",
+  "id": "com.vectores.nexusstream",
+  "description": "Nexus Stream Twitch Chat.",
+  "lang": "ru"
+}
