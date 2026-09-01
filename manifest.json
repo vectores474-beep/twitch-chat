@@ -1,0 +1,19 @@
+{
+  "background_color": "#9146ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nexus Stream",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Nexus_Stream",
+  "start_url": "/",
+  "theme_color": "#9146ff",
+  "id": "com.vectores.nexusstream",
+  "description": "Nexus Stream Twitch Chat",
+  "categories": [
+    "entertainment",
+    "social",
+    "utilities"
+  ],
+  "lang": "ru"
+}
